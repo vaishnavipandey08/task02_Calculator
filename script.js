@@ -1,7 +1,7 @@
 let display = document.querySelector('.display');
 let currentInput = '';
 let previousInput = '';
-let operator = '';
+let operator = '' ;
 let shouldResetScreen = false;  
 
 function appendNumber(number) {
